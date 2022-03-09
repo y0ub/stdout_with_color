@@ -1,6 +1,8 @@
 # stdout_with_color
 c++で色をつけて標準出力  
 
+src/stdout_with_color.cc より抜粋  
+
   // 赤文字で出力  
   std::cout << RED "Hello, World!!!!11!" << '\n';  
   // 赤文字で出力  
